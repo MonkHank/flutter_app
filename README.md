@@ -17,8 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## [flutter中文网](https://flutterchina.club/setup-windows/)
 ### Dart
-1. 常量：final 和 const 修饰符
-
-const：值不变，一开始就得赋值
+1. 常量：final 和 const 修饰符\n
+const：值不变，一开始就得赋值\n
 final：可以开始不赋值，只能赋一次；而 final 不仅有 const 的编译时常量特性，最重要的是它是运行时
 - 永远不改变的两，请使用 final 或 const 修饰，而不是使用 var 或其他类型
