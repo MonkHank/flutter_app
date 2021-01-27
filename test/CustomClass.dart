@@ -10,7 +10,7 @@ void main(){
 
   var p2 = new Person.now();
 
-  var a1 = new Animal("dog", 12);
+  var a1 = new Animal();
   var age = a1.age;
 
   var r = new Rect(12, 12);

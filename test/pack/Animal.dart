@@ -1,5 +1,4 @@
 
-import 'Person.dart';
 
 /// dart 中没有public private protected
 /// 但是可以使用 _ 下划线把一个属性或者方法定义成私有
