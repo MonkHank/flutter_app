@@ -14,7 +14,7 @@ allprojects {
         google()
         jcenter()
 
-        // FlutterActivity 报红
+        // 由于 FlutterActivity 报红，这里添加了这个
         maven { url "https://storage.googleapis.com/download.flutter.io" }
     }
 }
